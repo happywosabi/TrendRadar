@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T20:24:47.948994+08:00",
-  "total_titles_processed": 1179,
+  "generated_at": "2026-05-25T23:47:35.251765+08:00",
+  "total_titles_processed": 1345,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 83,
+      "match_count": 96,
       "titles": [
         {
           "title": "美媒：协议含放弃浓缩铀 伊朗：暂不谈核问题",
@@ -80,7 +80,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -102,7 +102,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -132,6 +132,17 @@
           "time_info": "11时33分"
         },
         {
+          "title": "伊朗最高领袖顾问：与美谈判同时，我们的手指扣在扳机上",
+          "url": "https://wallstreetcn.com/livenews/3108969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "伊朗官员：霍尔木兹海峡的管理不会恢复到战前状态",
           "url": "https://wallstreetcn.com/livenews/3108549",
           "source": "华尔街见闻-快讯",
@@ -143,6 +154,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时49分 ~ 07时57分]"
+        },
+        {
+          "title": "阿拉伯电视台：伊朗要求将铀转移至中国",
+          "url": "https://wallstreetcn.com/livenews/3108966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "美国国务卿鲁比奥：仍有希望与伊朗达成协议。在任何与伊朗达成的协议中，以色列都有权进行自卫。",
@@ -315,6 +337,17 @@
           "time_info": "[00时05分 ~ 03时13分]"
         },
         {
+          "title": "伊朗军方举行烈士纪念仪式，高层发表强硬讲话",
+          "url": "https://news.ifeng.com/c/8tPl7KTsmFN",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 23时47分]"
+        },
+        {
           "title": "据伊朗英语新闻电视台PressTV：伊朗在霍尔木兹甘省击落以色列间谍无人机。",
           "url": "https://flash.jin10.com/detail/20260525011316138800",
           "source": "金十数据",
@@ -375,6 +408,18 @@
           "time_info": "[04时49分 ~ 05时53分]"
         },
         {
+          "title": "伊朗总统称准备向世界保证不寻求核武器，如何看待这一表态？会推动美伊达成协议吗？",
+          "url": "https://www.zhihu.com/question/2042201889626907656",
+          "source": "知乎",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 23时47分]"
+        },
+        {
           "title": "白宫顾问哈塞特：结束伊朗战争或为美联储降息创造空间，美国可能会“负通胀”",
           "url": "https://wallstreetcn.com/livenews/3108519",
           "source": "华尔街见闻-快讯",
@@ -395,17 +440,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时05分 ~ 01时56分]"
-        },
-        {
-          "title": "伊朗军方举行烈士纪念仪式，高层发表强硬讲话",
-          "url": "https://news.ifeng.com/c/8tPl7KTsmFN",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
         },
         {
           "title": "内塔尼亚胡：以色列与美国在伊朗核问题上保持一致",
@@ -447,7 +481,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -461,6 +495,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        },
+        {
+          "title": "伊通社：伊朗多哈之行将检验“美国对承诺的履行”",
+          "url": "https://wallstreetcn.com/livenews/3108960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
+          "title": "伊朗媒体披露最高领袖就医情况",
+          "url": "https://wallstreetcn.com/livenews/3108959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "伊朗塔斯尼姆通讯社：伊朗方面表示，冻结资金的释放与浓缩铀行动无关。",
@@ -485,13 +541,24 @@
           "time_info": "16时16分"
         },
         {
+          "title": "伊朗媒体披露最高领袖就医情况",
+          "url": "https://flash.jin10.com/detail/20260525230526113800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "伊朗过去一天允许32艘船通过霍尔木兹海峡。（法尔斯通讯社）",
           "url": "https://wallstreetcn.com/livenews/3108868",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -524,7 +591,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -551,6 +618,17 @@
           "time_info": "01时56分"
         },
         {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗多哈之行将检验“美国对承诺的履行”。",
+          "url": "https://flash.jin10.com/detail/20260525230509437800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "伊朗外交部发言人：我们不会在霍尔木兹海峡收取通行费。将来提供的服务需要收费是正常的，但不应该被说成是征收通行费。",
           "url": "https://wallstreetcn.com/livenews/3108761",
           "source": "华尔街见闻-快讯",
@@ -568,7 +646,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -628,6 +706,17 @@
           "time_info": "07时57分"
         },
         {
+          "title": "墨西哥总统辛鲍姆：美国宣称不希望举办与伊朗有关的足球赛事之后，墨西哥政府同意让伊朗足球国家队在世界杯期间滞留墨西哥。",
+          "url": "https://wallstreetcn.com/livenews/3108954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "伊朗外交部：伊美达成共识“不意味着即将签署协议”",
           "url": "https://wallstreetcn.com/livenews/3108757",
           "source": "华尔街见闻-快讯",
@@ -661,6 +750,17 @@
           "time_info": "04时49分"
         },
         {
+          "title": "巴西央行行长：伊朗冲突和厄尔尼诺现象带来的供应冲击正在影响通胀预期。",
+          "url": "https://flash.jin10.com/detail/20260525225349382800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "伊朗高级外交官：霍尔木兹海峡的管理将是伊朗和阿曼之间的问题",
           "url": "https://wallstreetcn.com/livenews/3108756",
           "source": "华尔街见闻-快讯",
@@ -683,15 +783,15 @@
           "time_info": "16时16分"
         },
         {
-          "title": "伊朗总统称准备向世界保证不寻求核武器，如何看待这一表态？会推动美伊达成协议吗？",
-          "url": "https://www.zhihu.com/question/2042201889626907656",
-          "source": "知乎",
+          "title": "伊朗代表团结束在卡塔尔会谈议程 将返回德黑兰",
+          "url": "https://wallstreetcn.com/livenews/3108950",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时24分"
+          "time_info": "23时47分"
         },
         {
           "title": "伊朗外交部发言人：我们已经达成了一项框架协议，但没有人能断言美国和伊朗之间会很快达成协议。 份潜在的谅解备忘录并未包含有关霍尔木兹海峡管理的具体细节。 海峡的管理权属于沿岸国家。 我们已就讨论的许多议题达成了结论，但这并不意味着我们即将签署协议。 我们目前没有向巴基斯坦派遣代表团的计划。",
@@ -703,6 +803,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        },
+        {
+          "title": "伊朗代表团结束在卡塔尔会谈议程 将返回德黑兰",
+          "url": "https://flash.jin10.com/detail/20260525224711342800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "伊朗：准备向全世界保证不寻求拥核",
@@ -766,7 +877,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -802,6 +913,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "伊朗高官急赴卡塔尔敲定美伊停火细节，各方加紧努力达成协议",
+          "url": "https://flash.jin10.com/detail/20260525223419650800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
+          "title": "欧洲斯托克50指数上涨2%，抹去了自伊朗战争爆发以来的所有跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3108944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗最高领袖顾问表示，伊朗对霍尔木兹海峡的管理结束了海湾地区50年的不安全局面。",
@@ -870,13 +1003,24 @@
           "time_info": "16时16分"
         },
         {
+          "title": "欧洲斯托克50指数上涨2%，自伊朗战争开始以来的损失已全部抹平。",
+          "url": "https://flash.jin10.com/detail/20260525223019339800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "伊朗革命卫队海军：在过去24小时内，包括油轮、集装箱船和其他商船在内的32艘船只在获得许可后已通过霍尔木兹海峡。",
           "url": "https://flash.jin10.com/detail/20260525192556996800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -931,7 +1075,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -961,7 +1105,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
@@ -1027,6 +1171,19 @@
           "time_info": "[01时56分 ~ 07时57分]"
         },
         {
+          "title": "特朗普称美伊协议基本谈成，油价跳水，全球股市走强，日股指新高，金银齐涨",
+          "url": "https://wallstreetcn.com/articles/3773010",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时16分 ~ 23时47分]"
+        },
+        {
           "title": "白宫顾问哈塞特：美国总统特朗普现在考虑的是，本周是否准备本周与伊朗达成协议。 “所有炼油厂”可能在1-2个月获得所需的石油（供应）。",
           "url": "https://wallstreetcn.com/livenews/3108525",
           "source": "华尔街见闻-快讯",
@@ -1041,16 +1198,15 @@
           "time_info": "[00时05分 ~ 06时54分]"
         },
         {
-          "title": "特朗普称美伊协议基本谈成，油价跳水，全球股市走强，日股指新高，金银齐涨",
-          "url": "https://wallstreetcn.com/articles/3773010",
-          "source": "华尔街见闻",
+          "title": "不小心把特朗普归类为“白痴”，鲁比奥紧急救场",
+          "url": "https://v.ifeng.com/c/8tPourOxMbK",
+          "source": "凤凰网",
           "ranks": [
-            5,
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时16分 ~ 20时24分]"
+          "time_info": "[20时24分 ~ 23时47分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我与美国总统特朗普都认为，与伊朗达成的任何协议必须包含消除核威胁。 这意味着必须拆除伊朗的核浓缩设施，并将其领土内的所有已浓缩核材料全部运出。 特朗普重申，以色列拥有在所有战线（包括在黎巴嫩）捍卫自身安全、抵御威胁的合法权利。 我的政策与特朗普总统的政策一样，保持坚定不移，伊朗绝不能拥有核武器。",
@@ -1065,17 +1221,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时05分 ~ 06时54分]"
-        },
-        {
-          "title": "不小心把特朗普归类为“白痴”，鲁比奥紧急救场",
-          "url": "https://v.ifeng.com/c/8tPourOxMbK",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
         },
         {
           "title": "特朗普：美伊协议“尚未完全谈妥”",
@@ -1208,6 +1353,17 @@
           "time_info": "07时57分"
         },
         {
+          "title": "美司法部：白宫附近枪击案是针对特朗普的暗杀图谋",
+          "url": "https://wallstreetcn.com/livenews/3108956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "据以色列第13频道：内塔尼亚胡在安全会议中表示“对美国总统特朗普的影响力有限”。",
           "url": "https://flash.jin10.com/detail/20260525014506415800",
           "source": "金十数据",
@@ -1263,6 +1419,17 @@
           "time_info": "00时05分"
         },
         {
+          "title": "特朗普敦促沙特承认以色列，将其作为伊朗协议的一部分",
+          "url": "https://wallstreetcn.com/livenews/3108943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "特朗普称美伊协议未谈妥：封锁将持续",
           "url": "https://www.toutiao.com/trending/7643602399059250731/",
           "source": "今日头条",
@@ -1274,13 +1441,24 @@
           "time_info": "07时57分"
         },
         {
+          "title": "特朗普称伊朗核谈判“进展顺利”，协议似乎即将达成",
+          "url": "https://wallstreetcn.com/livenews/3108939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "特朗普：不会签署让伊朗获得核武器的协议",
           "url": "https://wallstreetcn.com/livenews/3108835",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         }
@@ -1376,11 +1554,12 @@
           "url": "https://www.toutiao.com/trending/7643690261362196489/",
           "source": "今日头条",
           "ranks": [
-            26
+            26,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 23时47分]"
         },
         {
           "title": "港股、美股周一休市 金银油交易将提前结束",
@@ -1392,6 +1571,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美伊协议前景缓和通胀担忧，金价反弹超1%",
+          "url": "https://flash.jin10.com/detail/20260525070547710800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "金价跳空高开",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%B3%E7%A9%BA%E9%AB%98%E5%BC%80%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         }
       ]
     },
@@ -1413,23 +1620,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美伊协议前景缓和通胀担忧，金价反弹超1%",
-          "url": "https://flash.jin10.com/detail/20260525070547710800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -1440,7 +1630,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         }
