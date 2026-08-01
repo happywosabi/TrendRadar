@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T00:09:57.620865+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-02T00:59:14.306902+08:00",
+  "total_titles_processed": 335,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 00时59分]"
         },
         {
           "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 00时59分]"
         },
         {
           "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 00时59分]"
         },
         {
           "title": "特朗普：伊朗确实挺硬气",
@@ -48,8 +48,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 00时59分]"
+        },
+        {
+          "title": "特朗普说伊朗确实挺硬气",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BC%8A%E6%9C%97%E7%A1%AE%E5%AE%9E%E6%8C%BA%E7%A1%AC%E6%B0%94%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 00时59分]"
         },
         {
           "title": "特朗普敦促参议员批准Blanche担任美国司法部长。（彭博）",
@@ -59,30 +71,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时59分]"
         },
         {
           "title": "特朗普威胁参议员通过其司法部长人选",
           "url": "https://flash.jin10.com/detail/20260801195052778800",
           "source": "金十数据",
           "ranks": [
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
-        },
-        {
-          "title": "特朗普说伊朗确实挺硬气",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BC%8A%E6%9C%97%E7%A1%AE%E5%AE%9E%E6%8C%BA%E7%A1%AC%E6%B0%94%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时59分]"
         }
       ]
     },
@@ -98,19 +100,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时59分]"
         },
         {
           "title": "美财长称正在全球范围内追查伊朗资产",
           "url": "https://flash.jin10.com/detail/20260801222142745800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时59分]"
         },
         {
           "title": "美国媒体披露美军向伊朗居民区投重磅炸弹",
@@ -120,19 +123,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时59分]"
         },
         {
           "title": "据卡塔尔通讯社：海湾合作委员会秘书长谴责伊朗对科威特平民设施的攻击。",
           "url": "https://flash.jin10.com/detail/20260801202347340800",
           "source": "金十数据",
           "ranks": [
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时59分]"
         },
         {
           "title": "伊朗称，伊斯兰阿巴德西吉尔的爆炸是由旧炮弹引起的。",
@@ -142,8 +146,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时59分]"
         }
       ]
     },
@@ -159,8 +163,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 00时59分]"
         },
         {
           "title": "马斯克关注DeepSeek账号",
@@ -187,8 +191,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 00时59分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -198,8 +202,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 00时59分]"
         }
       ]
     },
@@ -215,8 +219,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 00时59分]"
         }
       ]
     },
@@ -232,8 +236,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 00时59分]"
         }
       ]
     }
