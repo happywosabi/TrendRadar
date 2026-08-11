@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T13:03:23.811716+08:00",
-  "total_titles_processed": 1002,
+  "generated_at": "2026-08-11T14:58:16.858349+08:00",
+  "total_titles_processed": 1141,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
@@ -86,8 +86,30 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时16分 ~ 14时58分]"
+        },
+        {
+          "title": "美媒：特朗普上月秘密乘运输机回国",
+          "url": "https://www.toutiao.com/trending/7672053116451389486/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时16分 ~ 13时03分]"
+          "time_info": "[14时57分 ~ 14时58分]"
+        },
+        {
+          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
+          "url": "https://news.ifeng.com/c/8vUFosuJumv",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时57分 ~ 14时58分]"
         },
         {
           "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
@@ -156,6 +178,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时50分 ~ 02时50分]"
+        },
+        {
+          "title": "特朗普：美军已100%控制霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时16分 ~ 14时58分]"
         },
         {
           "title": "美国总统特朗普声称：你们会知道（关于伊朗问题的消息）的。",
@@ -230,6 +263,30 @@
           "time_info": "[06时32分 ~ 07时30分]"
         },
         {
+          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
+          "url": "https://wallstreetcn.com/articles/3779107",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时03分 ~ 14时58分]"
+        },
+        {
+          "title": "和平希望又受挫！特朗普称美军已“100%控制”霍尔木兹，并向伊朗索赔",
+          "url": "https://www.cls.cn/detail/2450709",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时03分 ~ 14时58分]"
+        },
+        {
           "title": "白宫官员：美国总统特朗普延长了《琼斯法案》的豁免，但附加了一些限制。",
           "url": "https://flash.jin10.com/detail/20260811011059897800",
           "source": "金十数据",
@@ -252,17 +309,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时50分 ~ 01时48分]"
-        },
-        {
-          "title": "特朗普：美军已100%控制霍尔木兹海峡",
-          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时16分 ~ 13时03分]"
         },
         {
           "title": "特朗普称美军实际控制霍尔木兹并清除了水雷",
@@ -324,17 +370,6 @@
           "time_info": "[05时37分 ~ 06时32分]"
         },
         {
-          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
-          "url": "https://wallstreetcn.com/articles/3779107",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
           "title": "美国总统特朗普：将《琼斯法案》航运豁免期限延长了90天，同时缩小了豁免范围。运输豁免范围限定于能源商品和化肥。",
           "url": "https://flash.jin10.com/detail/20260811010308412800",
           "source": "金十数据",
@@ -366,17 +401,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
-        },
-        {
-          "title": "和平希望又受挫！特朗普称美军已“100%控制”霍尔木兹，并向伊朗索赔",
-          "url": "https://www.cls.cn/detail/2450709",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时03分"
         },
         {
           "title": "据美国国会山报：特朗普政府撤销超过17.5万份签证。",
@@ -594,7 +618,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         }
@@ -602,7 +626,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
@@ -634,8 +658,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时16分 ~ 13时03分]"
+          "appearance_count": 4,
+          "time_info": "[09时16分 ~ 14时58分]"
+        },
+        {
+          "title": "伊朗最高领袖调整6名军方高层，美媒：德黑兰发出了信号",
+          "url": "https://news.ifeng.com/c/8vUtL7Lqyat",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时03分 ~ 14时58分]"
         },
         {
           "title": "伊朗：若乌不赔偿 伊朗就自己动手了",
@@ -644,7 +679,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
@@ -671,15 +706,17 @@
           "time_info": "09时16分"
         },
         {
-          "title": "伊朗最高领袖调整6名军方高层，美媒：德黑兰发出了信号",
-          "url": "https://news.ifeng.com/c/8vUtL7Lqyat",
+          "title": "伊朗更强硬的强硬派来了",
+          "url": "https://news.ifeng.com/c/8vUncUovk9A",
           "source": "凤凰网",
           "ranks": [
-            2
+            7,
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时03分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时16分 ~ 14时58分]"
         },
         {
           "title": "只闻其事不见其人，伊朗最高领袖为何“隐身”？",
@@ -704,17 +741,6 @@
           "time_info": "03时52分"
         },
         {
-          "title": "伊朗总统之子反思伊朗国际形象",
-          "url": "https://www.toutiao.com/trending/7671499615899877402/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
           "title": "伊朗外交部发言人巴加埃：美国财政部长曾吹嘘通过经济制裁“扼杀”了伊朗。这明显暴露出美国对制裁手段的强迫性依赖。",
           "url": "https://flash.jin10.com/detail/20260811031731383800",
           "source": "金十数据",
@@ -724,6 +750,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
+        },
+        {
+          "title": "伊朗总统之子反思伊朗国际形象",
+          "url": "https://www.toutiao.com/trending/7671499615899877402/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时03分 ~ 14时58分]"
         },
         {
           "title": "伊朗最高领袖将任命数名高级指挥官",
@@ -802,15 +840,14 @@
         },
         {
           "title": "伊朗更强硬的强硬派来了",
-          "url": "https://news.ifeng.com/c/8vUncUovk9A",
-          "source": "凤凰网",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9B%B4%E5%BC%BA%E7%A1%AC%E7%9A%84%E5%BC%BA%E7%A1%AC%E6%B4%BE%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            7,
-            6
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时16分 ~ 13时03分]"
+          "appearance_count": 3,
+          "time_info": "[13时03分 ~ 14时58分]"
         },
         {
           "title": "伊朗：每当华盛顿发现自己无力开展外交，就会退而诉诸制裁",
@@ -823,6 +860,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时52分 ~ 04时36分]"
+        },
+        {
+          "title": "伊朗警告乌克兰不赔偿就动手",
+          "url": "https://www.toutiao.com/trending/7671598956682723379/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时57分 ~ 14时58分]"
         },
         {
           "title": "伊朗革命卫队海军司令：任何外国船只经过霍尔木兹海峡，都逃不过伊朗军方的识别、追踪与监控。",
@@ -955,18 +1003,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "伊朗更强硬的强硬派来了",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9B%B4%E5%BC%BA%E7%A1%AC%E7%9A%84%E5%BC%BA%E7%A1%AC%E6%B4%BE%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
@@ -999,7 +1036,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
@@ -1042,8 +1079,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时32分 ~ 13时03分]"
+          "appearance_count": 6,
+          "time_info": "[06时32分 ~ 14时58分]"
         },
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -1053,8 +1090,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时16分 ~ 13时03分]"
+          "appearance_count": 4,
+          "time_info": "[09时16分 ~ 14时58分]"
+        },
+        {
+          "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
+          "url": "https://www.cls.cn/detail/2450678",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时30分 ~ 14时58分]"
         },
         {
           "title": "霍尔木兹僵局推油价大涨5%，英伟达\"循环融资\"担忧打压美股指，芯片指数跌3%，黄金续涨",
@@ -1067,18 +1116,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时30分]"
-        },
-        {
-          "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
-          "url": "https://www.cls.cn/detail/2450678",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时30分 ~ 13时03分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，布油基金涨约6.8%",
