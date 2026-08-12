@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T19:46:01.922911+08:00",
-  "total_titles_processed": 1500,
+  "generated_at": "2026-08-12T20:57:13.129875+08:00",
+  "total_titles_processed": 1615,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时37分 ~ 19时46分]"
+          "appearance_count": 9,
+          "time_info": "[06时37分 ~ 20时57分]"
         },
         {
           "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
@@ -52,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时45分 ~ 19时46分]"
+          "appearance_count": 4,
+          "time_info": "[19时45分 ~ 20时57分]"
         },
         {
           "title": "特朗普：我不信任伊朗。",
@@ -89,6 +89,17 @@
           "time_info": "09时24分"
         },
         {
+          "title": "美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹",
+          "url": "https://news.ifeng.com/c/8vX4SqfjB1V",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时45分 ~ 20时57分]"
+        },
+        {
           "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
           "url": "https://flash.jin10.com/detail/20260812053053264800",
           "source": "金十数据",
@@ -111,17 +122,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时23分 ~ 14时11分]"
-        },
-        {
-          "title": "美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹",
-          "url": "https://news.ifeng.com/c/8vX4SqfjB1V",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时45分 ~ 19时46分]"
         },
         {
           "title": "美国总统特朗普：医疗补助将不再为未成年人提供性别转换手术和激素治疗的资金。",
@@ -333,7 +333,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -754,7 +754,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -795,7 +795,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -846,13 +846,24 @@
           "time_info": "[00时54分 ~ 12时03分]"
         },
         {
+          "title": "美国7月CPI数据公布后，美元指数短线走高约10点，现报99.85。现货黄金短线走低约30美元，又走高逾20美元，现报4412.38美元/盎司。美股期货短线小幅走低后又迅速走高，纳斯达克100指数期货涨幅扩大至0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3148634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "文远知行第二季度净亏损4.007亿元人民币，预估亏损3.013亿元人民币。 文远知行美股盘前涨近1%。",
           "url": "https://wallstreetcn.com/livenews/3148604",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -975,6 +986,17 @@
           "time_info": "01时55分"
         },
         {
+          "title": "美股存储芯片股盘前普涨，SK海力士涨超4%，闪迪涨超4%，希捷科技、美光科技涨近3%，西部数据涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3148615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "美股期指短线拉升，纳斯达克100指数期货上涨0.7%。 美国国债上涨，美国10年期国债收益率下行3个基点至4.66%。",
           "url": "https://wallstreetcn.com/livenews/3148557",
           "source": "华尔街见闻-快讯",
@@ -984,6 +1006,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时58分"
+        },
+        {
+          "title": "文远知行第二季度营收2.317亿元人民币，同比+82%，预估1.707亿元人民币 第二季度净亏损4.007亿元人民币，预估亏损3.013亿元人民币。 第二季度毛利率37.5％，上年同期28.1％。 第二季度研发支出4.343亿元人民币，同比增长36%。 文远知行美股盘前涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3148604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         }
       ]
     },
@@ -1105,8 +1138,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时11分 ~ 19时46分]"
+          "appearance_count": 7,
+          "time_info": "[14时11分 ~ 20时57分]"
         },
         {
           "title": "梁文锋跻身全球最富有50人之列",
@@ -1213,8 +1246,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美元指数DXY短线走高20点，现报99.82。",
+          "url": "https://flash.jin10.com/detail/20260812203142684800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
         {
           "title": "美元指数11日上涨",
           "url": "https://flash.jin10.com/detail/20260812032920147800",
