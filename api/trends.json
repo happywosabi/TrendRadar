@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-08-19T08:56:07.958182+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-08-19T10:23:43.965159+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普发布地图，将霍尔木兹海峡划为“美国新领土”",
           "url": "https://news.ifeng.com/c/8vhHYZ5eOge",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 08时56分]"
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 10时23分]"
         },
         {
           "title": "罕见公开说“不”！内塔尼亚胡为何硬刚特朗普？",
@@ -41,6 +42,17 @@
           "time_info": "[08时55分 ~ 08时56分]"
         },
         {
+          "title": "特朗普寻求今秋与金正恩会晤",
+          "url": "https://news.ifeng.com/c/8vi85c8Rz8H",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
           "title": "特朗普声称目前和未来不会与伊朗会谈，秀地图标注霍尔木兹为“美国新领土”",
           "url": "https://wallstreetcn.com/articles/3779720",
           "source": "华尔街见闻",
@@ -48,19 +60,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 08时56分]"
-        },
-        {
-          "title": "专家：特朗普示好朝鲜施压韩国",
-          "url": "https://www.toutiao.com/trending/7675308515237707819/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 08时56分]"
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 10时23分]"
         },
         {
           "title": "特朗普反复要求CNN记者别吵：“假新闻，你闭嘴”",
@@ -68,6 +69,17 @@
           "source": "澎湃新闻",
           "ranks": [
             15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 10时23分]"
+        },
+        {
+          "title": "专家：特朗普示好朝鲜施压韩国",
+          "url": "https://www.toutiao.com/trending/7675308515237707819/",
+          "source": "今日头条",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -96,13 +108,24 @@
           "time_info": "[08时55分 ~ 08时56分]"
         },
         {
+          "title": "特朗普寻求今秋与金正恩会晤",
+          "url": "https://wallstreetcn.com/livenews/3151399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
           "title": "美官员：特朗普要求谈判团队暂停与伊朗接触",
           "url": "https://wallstreetcn.com/livenews/3151364",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         }
@@ -110,7 +133,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "债市风暴持续，美股指三连跌，泛欧股指五连跌，美芯片指数重挫5%，原油三连涨",
@@ -120,8 +143,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 08时56分]"
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 10时23分]"
         },
         {
           "title": "【早报】美股存储、光通信板块大幅回落；原油上涨、黄金走低；宇树科技今日上市",
@@ -131,36 +154,49 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 08时56分]"
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 10时23分]"
         },
         {
           "title": "美股收盘：AI牛股集体重挫 医药、红利、软件板块轮动走强",
           "url": "https://www.cls.cn/detail/2457697",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 08时56分]"
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 10时23分]"
         },
         {
           "title": "美股三大股指全线收跌",
           "url": "https://www.douyin.com/hot/2614994",
           "source": "抖音",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 08时56分]"
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 10时23分]"
+        },
+        {
+          "title": "中东停火前景黯淡 美股能源板块再度冲向历史高位",
+          "url": "https://www.cls.cn/detail/2457651",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "伊朗将重拳出击，霍尔木兹海峡上演猫鼠游戏",
@@ -178,11 +214,12 @@
           "url": "https://www.zhihu.com/question/2071850141703729771",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 08时56分]"
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 10时23分]"
         },
         {
           "title": "伊朗举行哈梅内伊下葬四十日纪念仪式",
@@ -202,37 +239,134 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "伊朗否认向阿联酋发射导弹",
+          "url": "https://wallstreetcn.com/livenews/3151402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "25 年来最贵美债横空出世，美联储没加息，市场却完成一轮「被动加息」，有何影响？美债收益率为何飙升？",
           "url": "https://www.zhihu.com/question/2072027645802452564",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 08时56分]"
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 10时23分]"
         },
         {
           "title": "油价与通胀担忧推升美债收益率 美股三大期指集体走低 芯片股回调 | 今夜看点",
           "url": "https://www.cls.cn/detail/2457477",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 08时56分]"
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 10时23分]"
+        },
+        {
+          "title": "美债抛售恐慌开始外溢？AI牛股齐跌 华尔街成惊弓之鸟……",
+          "url": "https://www.cls.cn/detail/2457780",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "美股跌完日韩接力下挫：韩国启动侧车机制，日本芯片股被卷入美债风暴",
+          "url": "https://flash.jin10.com/detail/20260819093836668800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "梁文锋打新宇树科技浮盈超11亿元",
+          "url": "https://www.toutiao.com/trending/7674808450081328703/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "梁文锋打新宇树科技浮盈11亿",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E6%89%93%E6%96%B0%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E6%B5%AE%E7%9B%8811%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "二季度收入仅增18%！OpenAI“暴雷”，远低于Anthropic",
+          "url": "https://wallstreetcn.com/articles/3779748",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "亚洲买盘正带动黄金突围，挣脱利率约束后金价还能涨多少？——新版发布",
+          "url": "https://flash.jin10.com/detail/20260819100244076800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         }
       ]
     }
